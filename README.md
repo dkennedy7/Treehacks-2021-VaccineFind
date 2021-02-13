@@ -1,1 +1,1 @@
-# Treehacks-2021-VaccineFind
+# Treehacks-2021-VaccineFinder
